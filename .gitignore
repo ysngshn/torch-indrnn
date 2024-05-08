@@ -1,0 +1,14 @@
+*
+!requirements.txt
+!./.gitignore
+!*.md
+!.gitkeep
+!*.py
+!*.sh
+!*.h
+!*.c
+!*.cpp
+!*.hpp
+!*.cuh
+!*.cu
+!*/
